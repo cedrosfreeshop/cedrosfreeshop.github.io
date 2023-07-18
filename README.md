@@ -76,22 +76,22 @@ LE CADRE DE FACTURE :
    - LA PREMIÈRE MÉTHODE UTILISE LES VALEURS EN ESPÈCES POUR RENDRE INTELLIGEMMENT LA CHANGE.
    - LA DEUXIÈME ET LA TROISIÈME MÉTHODE SONT PRATIQUES ET COMMUNES.
    - C'EST AJOUTER IMMÉDIATEMENT LES VALEURS AU CADRE PRINCIPAL.
-
+   - 
 PREVIEW:
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro1.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro2.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro3.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro4.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro5.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro6.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales%201.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales%202.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales%203.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales%204.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales%205.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales%206.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/pesos%201.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/invoice.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/key%20shortcut.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro2.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro3.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro4.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro5.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro6.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%201.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%202.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%203.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%204.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%205.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%206.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos%201.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoice.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/key%20shortcut.png)
            
            MOHAMAD ABDALLAH ABBASS ©
