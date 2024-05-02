@@ -93,5 +93,7 @@ PREVIEW:
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos%201.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoice.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/key%20shortcut.png)
+
+[DOWNLOAD](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/releases)
            
            MOHAMAD ABDALLAH ABBASS ©
