@@ -3,6 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #000; /* Optional: Set background color */
+}
+video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+}
 .slowFade {
     display: flex;
     align-items: flex-start;
