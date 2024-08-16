@@ -1,3 +1,8 @@
-1-Adicione mais logotipos
-2-Limpe a seção de configuração
-3-Corrija alguns erros da versão anterior
+1-Melhor animação para o menu pop-up
+2-Substituir github para whatsapp no ​​painel de contato
+3-Deixar o fundo mais preto quando você abre um diálogo
+4-Alterar a cor e o tamanho do texto no diálogo
+5-Adicionar uma legenda no menu de opções que fique melhor
+6-Agora, o aplicativo verifica a atualização diretamente do github
+7-Alterar a cor do ícone do site
+8-Limpar o código

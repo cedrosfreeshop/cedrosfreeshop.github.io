@@ -1,3 +1,8 @@
-1-Agregar más logos
-2-Limpiar la sección de configuración
-3-Corregir algunos errores de la versión anterior
+1-Mejor animación para el menú emergente
+2-Reemplazar github por whatsapp en el panel de contactos
+3-Hacer que el fondo sea más negro cuando se abre un diálogo
+4-Cambiar el color y el tamaño del texto en el diálogo
+5-Agregar un subtítulo en el menú de opciones para que se vea mejor
+6-Ahora, la aplicación busca actualizaciones directamente desde github
+7-Cambiar el color del ícono del sitio web
+8-Limpiar el código

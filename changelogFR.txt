@@ -1,3 +1,8 @@
-1-Ajouter plus de logos
-2-Nettoyer la section de configuration
-3-Corriger quelques erreurs dans la version précédente
+1- Meilleure animation pour le menu contextuel
+2- Remplacez github par whatsapp dans le panneau de contact
+3- Rendre l'arrière-plan plus noir lorsque vous ouvrez une boîte de dialogue
+4- Modifiez la couleur et la taille du texte dans la boîte de dialogue
+5- Ajoutez un sous-titre dans le menu d'options pour un meilleur rendu
+6- Maintenant, l'application vérifie la mise à jour directement depuis github
+7- Modifiez la couleur de l'icône du site Web
+8- Nettoyez le code
