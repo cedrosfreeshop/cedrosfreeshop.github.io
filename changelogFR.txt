@@ -1,0 +1,3 @@
+1-Ajouter plus de logos
+2-Nettoyer la section de configuration
+3-Corriger quelques erreurs dans la version précédente

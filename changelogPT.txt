@@ -1,0 +1,3 @@
+1-Adicione mais logotipos
+2-Limpe a seção de configuração
+3-Corrija alguns erros da versão anterior
