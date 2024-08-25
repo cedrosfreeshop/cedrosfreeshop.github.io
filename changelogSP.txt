@@ -1,8 +1,7 @@
-1-Mejor animación para el menú emergente
-2-Reemplazar github por whatsapp en el panel de contactos
-3-Hacer que el fondo sea más negro cuando se abre un diálogo
-4-Cambiar el color y el tamaño del texto en el diálogo
-5-Agregar un subtítulo en el menú de opciones para que se vea mejor
-6-Ahora, la aplicación busca actualizaciones directamente desde github
-7-Cambiar el color del ícono del sitio web
-8-Limpiar el código
+1-[Calculadora] Escribe los números o el símbolo para calcular
+2-Agrega más celdas en el panel separado para cuando gastamos y separamos en el mismo día
+3-Haz que el panel sea más colorido usando el verde para el valor positivo, rojo para el negativo y un color diferente para el total
+4-El domingo, toma una captura de pantalla para archivar el dinero separado semanalmente, guardado de acuerdo con el número de semana
+5-Cambia algunos textos y elimina algunos códigos innecesarios
+6-[Desarrollador]Abre el panel separado en secreto
+7-[Desarrollador] Agrega una función para calcular el número de semana
