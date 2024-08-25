@@ -1,8 +1,7 @@
-1-Better animation for the popup menu
-2-Replace github to whatsapp in the contact panel
-3-Make the background more black when you open a dialog
-4-Change the text color and size in the dialog
-5-Add a subtitle in the option menu that look better
-6-Now, the app check for the update directly from github
-7-Change the color of the website icon
-8-Clean up the code
+1-[Calculator] Type the numbers or the symbol to calculate
+2-Add more cells in the separated panel to when we spend and separate in the same day
+3-Make the panel more colorfull by using the green for the positive value, red for negative and different color for the total
+4-At Sunday, take a screenshoot to archive the weekly separated money, saved according to the week number
+5-Change some texts and remove some unnacesary code
+6-[Developer]Open the separated panel secretly
+7-[Developer] Add a function to calculate the week Number
