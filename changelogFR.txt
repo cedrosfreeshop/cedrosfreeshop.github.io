@@ -1,8 +1,7 @@
-1- Meilleure animation pour le menu contextuel
-2- Remplacez github par whatsapp dans le panneau de contact
-3- Rendre l'arrière-plan plus noir lorsque vous ouvrez une boîte de dialogue
-4- Modifiez la couleur et la taille du texte dans la boîte de dialogue
-5- Ajoutez un sous-titre dans le menu d'options pour un meilleur rendu
-6- Maintenant, l'application vérifie la mise à jour directement depuis github
-7- Modifiez la couleur de l'icône du site Web
-8- Nettoyez le code
+1-[Calculatrice] Tapez les chiffres ou le symbole à calculer
+2-Ajoutez plus de cellules dans le panneau séparé pour savoir quand nous dépensons et séparons le même jour
+3-Rendez le panneau plus coloré en utilisant le vert pour la valeur positive, le rouge pour la valeur négative et une couleur différente pour le total
+4-Le dimanche, faites une capture d'écran pour archiver l'argent séparé hebdomadaire, enregistré selon le numéro de semaine
+5-Modifiez certains textes et supprimez certains codes inutiles
+6-[Développeur]Ouvrez secrètement le panneau séparé
+7-[Développeur] Ajoutez une fonction pour calculer le numéro de semaine
