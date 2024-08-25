@@ -1,8 +1,7 @@
-1-Melhor animação para o menu pop-up
-2-Substituir github para whatsapp no ​​painel de contato
-3-Deixar o fundo mais preto quando você abre um diálogo
-4-Alterar a cor e o tamanho do texto no diálogo
-5-Adicionar uma legenda no menu de opções que fique melhor
-6-Agora, o aplicativo verifica a atualização diretamente do github
-7-Alterar a cor do ícone do site
-8-Limpar o código
+1-[Calculadora] Digite os números ou o símbolo para calcular
+2-Adicione mais células no painel separado para quando gastamos e separamos no mesmo dia
+3-Deixe o painel mais colorido usando o verde para o valor positivo, vermelho para o negativo e cores diferentes para o total
+4-No domingo, faça uma captura de tela para arquivar o dinheiro separado semanalmente, salvo de acordo com o número da semana
+5-Altere alguns textos e remova algum código desnecessário
+6-[Desenvolvedor]Abra o painel separado secretamente
+7-[Desenvolvedor]Adicione uma função para calcular o número da semana
