@@ -1,7 +1,6 @@
-1-[Calculadora] Digite os números ou o símbolo para calcular
-2-Adicione mais células no painel separado para quando gastamos e separamos no mesmo dia
-3-Deixe o painel mais colorido usando o verde para o valor positivo, vermelho para o negativo e cores diferentes para o total
-4-No domingo, faça uma captura de tela para arquivar o dinheiro separado semanalmente, salvo de acordo com o número da semana
-5-Altere alguns textos e remova algum código desnecessário
-6-[Desenvolvedor]Abra o painel separado secretamente
-7-[Desenvolvedor]Adicione uma função para calcular o número da semana
+1-Adicione um atalho de teclado para minimizar a janela
+2-Adicione a calculadora a todos os quadros
+3-Adicione o atalho que faltava no guia
+4-Corrija no quadro de pesos, não podemos terminar o dia
+5-Corrija quando saímos usando o botão fechar, não salva o dia
+6-Limpe o código
