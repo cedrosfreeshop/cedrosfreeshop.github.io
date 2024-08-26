@@ -1,7 +1,6 @@
-1-[Calculadora] Escribe los números o el símbolo para calcular
-2-Agrega más celdas en el panel separado para cuando gastamos y separamos en el mismo día
-3-Haz que el panel sea más colorido usando el verde para el valor positivo, rojo para el negativo y un color diferente para el total
-4-El domingo, toma una captura de pantalla para archivar el dinero separado semanalmente, guardado de acuerdo con el número de semana
-5-Cambia algunos textos y elimina algunos códigos innecesarios
-6-[Desarrollador]Abre el panel separado en secreto
-7-[Desarrollador] Agrega una función para calcular el número de semana
+1-Agregar un atajo de teclado para minimizar la ventana
+2-Agregar la calculadora a todos los frames
+3-Agregar el atajo que falta en la guía
+4-Arreglar en el frame de pesos, no podemos terminar el día
+5-Arreglar cuando salimos usando el botón cerrar, no guarda el día
+6-Limpiar el código
