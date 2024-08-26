@@ -1,7 +1,6 @@
-1-[Calculatrice] Tapez les chiffres ou le symbole à calculer
-2-Ajoutez plus de cellules dans le panneau séparé pour savoir quand nous dépensons et séparons le même jour
-3-Rendez le panneau plus coloré en utilisant le vert pour la valeur positive, le rouge pour la valeur négative et une couleur différente pour le total
-4-Le dimanche, faites une capture d'écran pour archiver l'argent séparé hebdomadaire, enregistré selon le numéro de semaine
-5-Modifiez certains textes et supprimez certains codes inutiles
-6-[Développeur]Ouvrez secrètement le panneau séparé
-7-[Développeur] Ajoutez une fonction pour calculer le numéro de semaine
+1-Ajouter un raccourci clavier pour minimiser la fenêtre
+2-Ajouter la calculatrice à tous les cadres
+3-Ajouter le raccourci manquant dans le guide
+4-Correction dans le cadre des pesos, on ne peut pas terminer la journée
+5-Correction lorsque l'on sort en utilisant le bouton de fermeture, cela ne sauve pas la journée
+6-Nettoyer le code
