@@ -1,6 +1,4 @@
-1-Ajouter un raccourci clavier pour minimiser la fenêtre
-2-Ajouter la calculatrice à tous les cadres
-3-Ajouter le raccourci manquant dans le guide
-4-Correction dans le cadre des pesos, on ne peut pas terminer la journée
-5-Correction lorsque l'on sort en utilisant le bouton de fermeture, cela ne sauve pas la journée
-6-Nettoyer le code
+1-[Facture] Correction qui ne peut pas faire 2 notes consécutives
+2-[Facture] Effacer le résultat et désactiver le bouton après avoir terminé une note
+3-[Facture] Lorsque le total est nul, les boutons sont toujours désactivés pour éviter certaines erreurs
+4-Rétablir la taille du texte après être devenu petit
