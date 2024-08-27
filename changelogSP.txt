@@ -1,6 +1,4 @@
-1-Agregar un atajo de teclado para minimizar la ventana
-2-Agregar la calculadora a todos los frames
-3-Agregar el atajo que falta en la guía
-4-Arreglar en el frame de pesos, no podemos terminar el día
-5-Arreglar cuando salimos usando el botón cerrar, no guarda el día
-6-Limpiar el código
+1-[Factura] Corrección de que no se puedan hacer 2 notas consecutivas
+2-[Factura] Borrar el resultado y deshabilitar el botón después de finalizar una nota
+3-[Factura] Cuando el total es nulo, los botones siempre se deshabilitan para evitar algunos errores
+4-Revertir el tamaño del texto después de que se volvió pequeño
