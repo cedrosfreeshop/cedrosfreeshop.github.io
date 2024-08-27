@@ -1,6 +1,4 @@
-1-Add a key shortcut to minimiz the window
-2-Add the calculator to all frame
-3-Add the missing shortcut in the guide
-4-Fix in the pesos frame, we cannot end the day
-5-Fix when we exit using the close button, does not save the day
-6-Clean the code
+1-[Invoice] Fix that cannot do 2 consective notes
+2-[Invoice] Clear the result and disable the button after end a note
+3-[Invoice] When the total is null, the buttons are always disabled to prevent some mistakes
+4-Revert the text size after becoming small
