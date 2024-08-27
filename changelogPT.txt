@@ -1,6 +1,4 @@
-1-Adicione um atalho de teclado para minimizar a janela
-2-Adicione a calculadora a todos os quadros
-3-Adicione o atalho que faltava no guia
-4-Corrija no quadro de pesos, não podemos terminar o dia
-5-Corrija quando saímos usando o botão fechar, não salva o dia
-6-Limpe o código
+1-[Fatura] Corrigir que não é possível fazer 2 notas consecutivas
+2-[Fatura] Limpar o resultado e desabilitar o botão após finalizar uma nota
+3-[Fatura] Quando o total é nulo, os botões são sempre desabilitados para evitar alguns erros
+4-Reverter o tamanho do texto após ficar pequeno
