@@ -1,4 +1,6 @@
-1-[Factura] Corrección de que no se puedan hacer 2 notas consecutivas
-2-[Factura] Borrar el resultado y deshabilitar el botón después de finalizar una nota
-3-[Factura] Cuando el total es nulo, los botones siempre se deshabilitan para evitar algunos errores
-4-Revertir el tamaño del texto después de que se volvió pequeño
+1-Agregar un progreso de descarga en tiempo real
+2-Agregar un botón cuando el archivo se está descargando, para descargar usando el navegador si Internet es lento o la descarga se interrumpió
+3-Cambiar el color del círculo según el fondo
+4-Desenfocar el fondo y ocultar los elementos excepto el logotipo, el círculo de descarga y el botón del navegador cuando se realiza una actualización o una versión inferior
+5-Agregar un atajo de teclado al panel separado para palabras comunes
+6-[Dev]Organizar la carpeta de imágenes
