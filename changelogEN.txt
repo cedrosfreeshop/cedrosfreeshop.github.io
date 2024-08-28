@@ -1,4 +1,6 @@
-1-[Invoice] Fix that cannot do 2 consective notes
-2-[Invoice] Clear the result and disable the button after end a note
-3-[Invoice] When the total is null, the buttons are always disabled to prevent some mistakes
-4-Revert the text size after becoming small
+1-Add a realtime download progress
+2-Add a button when the file is downloading, to download using browser if the internet is slow, or the download got interruted
+3-Change th circle color according to the background
+4-Blur the background and hide the the element except the logo, the download circle and the browser button when Update/Downgrade
+5-Add a key shortcut to the separated panel for commun words
+6-[Dev]Organize the images folder
