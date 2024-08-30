@@ -1,6 +1,2 @@
-1-Ajouter une progression de téléchargement en temps réel
-2-Ajouter un bouton lorsque le fichier est en cours de téléchargement, pour télécharger à l'aide du navigateur si Internet est lent ou si le téléchargement a été interrompu
-3-Modifier la couleur du cercle en fonction de l'arrière-plan
-4-Flouter l'arrière-plan et masquer l'élément à l'exception du logo, du cercle de téléchargement et du bouton du navigateur lors de la mise à jour/rétrogradation
-5-Ajouter un raccourci clavier au panneau séparé pour les mots communs
-6-[Dev]Organiser le dossier des images
+1-Corriger une valeur du samedi qui soit un peu plus élevée
+2-Corriger lorsque nous ajoutons un jour, pour éviter une erreur lorsque le mois de février compte 29 jours
