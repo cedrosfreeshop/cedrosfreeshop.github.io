@@ -1,6 +1,2 @@
-1-Agregar un progreso de descarga en tiempo real
-2-Agregar un botón cuando el archivo se está descargando, para descargar usando el navegador si Internet es lento o la descarga se interrumpió
-3-Cambiar el color del círculo según el fondo
-4-Desenfocar el fondo y ocultar los elementos excepto el logotipo, el círculo de descarga y el botón del navegador cuando se realiza una actualización o una versión inferior
-5-Agregar un atajo de teclado al panel separado para palabras comunes
-6-[Dev]Organizar la carpeta de imágenes
+1-Corregir un valor de sábado que sea un poco más alto
+2-Corregir cuando agregamos un día, para evitar un error cuando el mes de febrero tiene 29 días
