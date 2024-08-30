@@ -1,6 +1,2 @@
-1-Adicione um progresso de download em tempo real
-2-Adicione um botão quando o arquivo estiver sendo baixado, para baixar usando o navegador se a internet estiver lenta ou o download for interrompido
-3-Altere a cor do círculo de acordo com o fundo
-4-Desfoque o fundo e oculte o elemento, exceto o logotipo, o círculo de download e o botão do navegador ao atualizar/rebaixar
-5-Adicione um atalho de tecla para o painel separado para palavras comuns
-6-[Dev]Organize a pasta de imagens
+1-Corrigir um valor de sábado que seja um pouco maior
+2-Corrigir quando adicionamos um dia, para evitar um erro quando o mês de fevereiro tiver 29 dias
