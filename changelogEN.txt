@@ -1,6 +1,2 @@
-1-Add a realtime download progress
-2-Add a button when the file is downloading, to download using browser if the internet is slow, or the download got interruted
-3-Change th circle color according to the background
-4-Blur the background and hide the the element except the logo, the download circle and the browser button when Update/Downgrade
-5-Add a key shortcut to the separated panel for commun words
-6-[Dev]Organize the images folder
+1-Fix a value of Saturday that is a little bit higher
+2-Fix when we add a day, to prevent an error when the February month is 29 days
