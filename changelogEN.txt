@@ -1,2 +1,6 @@
-1-Fix a value of Saturday that is a little bit higher
-2-Fix when we add a day, to prevent an error when the February month is 29 days
+1-Add an option to do the sell in PIX
+2-Add the sell for the more table when the table is full
+3-Fix the location of the table in the note panel
+4-Change the color of the download progress circle to fit the background
+5-Change the error popup to give clearer deail
+6-Cleanup the code
