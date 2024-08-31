@@ -1,2 +1,6 @@
-1-Corriger une valeur du samedi qui soit un peu plus élevée
-2-Corriger lorsque nous ajoutons un jour, pour éviter une erreur lorsque le mois de février compte 29 jours
+1-Ajouter une option pour faire la vente dans PIX
+2-Ajouter la table de vente pour le plus lorsque la table est pleine
+3-Fixer l'emplacement du tableau dans le panneau de notes
+4-Changez la couleur du cercle de progression du téléchargement pour l'adapter à l'arrière-plan
+5-Modifiez la fenêtre contextuelle d'erreur pour donner un e-mail plus clair
+6-Nettoyer le code
