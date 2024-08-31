@@ -1,2 +1,6 @@
-1-Corrigir um valor de sábado que seja um pouco maior
-2-Corrigir quando adicionamos um dia, para evitar um erro quando o mês de fevereiro tiver 29 dias
+1-Adicionar opção de fazer a venda no PIX
+2-Adicione a venda para a mesa mais quando a mesa estiver cheia
+3-Corrigir a localização da tabela no painel de notas
+4-Mude a cor do círculo de progresso do download para caber no fundo
+5-Altere o pop-up de erro para fornecer detalhes mais claros
+6-Limpe o código
