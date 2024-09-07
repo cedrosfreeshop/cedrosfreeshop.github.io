@@ -1,6 +1,5 @@
-1-Adicionar opção de fazer a venda no PIX
-2-Adicione a venda para a mesa mais quando a mesa estiver cheia
-3-Corrigir a localização da tabela no painel de notas
-4-Mude a cor do círculo de progresso do download para caber no fundo
-5-Altere o pop-up de erro para fornecer detalhes mais claros
-6-Limpe o código
+1-Usar uma classe para desfocar a tela no modo bloqueado, para reduzir o tamanho do aplicativo, e fazer o desfoque automaticamente
+2-Para cada mês, criar uma pasta para os pagamentos, para escanear o papel dentro
+3-Limpar os valores da tabela adicionada quando fecharmos o caixa
+4-Salvar os valores da tabela adicionada automaticamente com um novo método
+5-Limpar o código
