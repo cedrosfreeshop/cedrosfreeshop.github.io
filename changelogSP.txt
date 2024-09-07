@@ -1,6 +1,5 @@
-1-Agregar una opción para realizar la venta en PIX
-2-Agrega la venta por más mesa cuando la mesa esté llena
-3-Fijar la ubicación de la tabla en el panel de notas.
-4-Cambie el color del círculo de progreso de descarga para que se ajuste al fondo
-5-Cambie la ventana emergente de error para brindar detalles más claros
-6-Limpiar el código
+1-Usar una clase para desenfocar la pantalla en modo bloqueado, para reducir el tamaño de la aplicación y hacer que el desenfoque se realice automáticamente
+2-Para cada mes, crear una carpeta para los pagos, para escanear el papel que está dentro
+3-Borrar los valores de la tabla agregada cuando cerramos el efectivo
+4-Guardar los valores de la tabla agregada automáticamente con un nuevo método
+5-Limpiar el código
