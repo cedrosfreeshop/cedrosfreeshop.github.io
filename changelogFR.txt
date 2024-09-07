@@ -1,6 +1,5 @@
-1-Ajouter une option pour faire la vente dans PIX
-2-Ajouter la table de vente pour le plus lorsque la table est pleine
-3-Fixer l'emplacement du tableau dans le panneau de notes
-4-Changez la couleur du cercle de progression du téléchargement pour l'adapter à l'arrière-plan
-5-Modifiez la fenêtre contextuelle d'erreur pour donner un e-mail plus clair
-6-Nettoyer le code
+1-Utiliser une classe pour flouter l'écran en mode verrouillé, pour réduire la taille de l'application et rendre le flou automatique
+2-Pour chaque mois, créer un dossier pour les paiements, pour scanner le papier à l'intérieur
+3-Effacer les valeurs du tableau ajouté lorsque nous fermons la caisse
+4-Enregistrer les valeurs du tableau ajouté automatiquement avec une nouvelle méthode
+5-Nettoyer le code
