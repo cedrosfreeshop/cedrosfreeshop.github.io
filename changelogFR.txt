@@ -1,5 +1,7 @@
-1-Utiliser une classe pour flouter l'écran en mode verrouillé, pour réduire la taille de l'application et rendre le flou automatique
-2-Pour chaque mois, créer un dossier pour les paiements, pour scanner le papier à l'intérieur
-3-Effacer les valeurs du tableau ajouté lorsque nous fermons la caisse
-4-Enregistrer les valeurs du tableau ajouté automatiquement avec une nouvelle méthode
-5-Nettoyer le code
+1-Ajoutez un raccourci clavier (CTRL+DROITE) pour ne pas passer au cas suivant sur les dépenses, les agrégats et la description de l'article
+2-Ajoutez le raccourci clavier manquant sur le cadre de la facture
+3-Ajoutez tous les éléments possibles dans la facture et le cas des dépenses et des agrégats pour les compléter automatiquement facilement
+4-Corrigez l'emplacement du bouton pix lorsque nous sommes sur la résolution la plus élevée
+5-Réduisez la taille de l'application en compressant l'image gif
+6-Faites en sorte que l'image séparée soit prise le samedi pour éviter de ne pas la prendre lorsque nous n'ouvrons pas le dimanche
+7-Faites la date dans le panneau séparé lorsque nous utilisons CTRL+C sans 0 au début
