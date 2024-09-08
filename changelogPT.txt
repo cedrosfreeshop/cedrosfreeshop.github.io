@@ -1,5 +1,7 @@
-1-Usar uma classe para desfocar a tela no modo bloqueado, para reduzir o tamanho do aplicativo, e fazer o desfoque automaticamente
-2-Para cada mês, criar uma pasta para os pagamentos, para escanear o papel dentro
-3-Limpar os valores da tabela adicionada quando fecharmos o caixa
-4-Salvar os valores da tabela adicionada automaticamente com um novo método
-5-Limpar o código
+1-Adicione uma tecla curta (CTRL+DIREITA) para não ir para o próximo caso de gastos, agregados e descrição do item
+2-Adicione a tecla curta que falta no quadro da fatura
+3-Adicione todos os itens possíveis na fatura e gaste e agregue o caso para preenchê-lo automaticamente com facilidade
+4-Corrigir a localização do botão pix quando estivermos na resolução mais alta
+5-Reduza o tamanho do aplicativo compactando a imagem GIF
+6-Faça a imagem separada tirada no sábado para evitar não tirar quando não abrirmos aos domingos
+7-Faça a data no painel separado quando usarmos CTRL+C sem 0 a princípio
