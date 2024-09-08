@@ -1,5 +1,7 @@
-1-Usar una clase para desenfocar la pantalla en modo bloqueado, para reducir el tamaño de la aplicación y hacer que el desenfoque se realice automáticamente
-2-Para cada mes, crear una carpeta para los pagos, para escanear el papel que está dentro
-3-Borrar los valores de la tabla agregada cuando cerramos el efectivo
-4-Guardar los valores de la tabla agregada automáticamente con un nuevo método
-5-Limpiar el código
+1-Agregue una tecla breve (CTRL+DERECHA) para no pasar al siguiente caso sobre gastos, agregados y descripción del artículo.
+2-Agregue la clave corta que falta en el marco de la factura
+3-Agregue todos los elementos posibles en la factura y gaste y agregue el caso para autocompletarlo fácilmente
+4-Corregir la ubicación del botón de foto cuando estemos en la resolución más alta
+5-Reduce el tamaño de la aplicación comprimiendo la imagen gif
+6-Haz la imagen separada tomada el sábado para evitar no tomarla cuando no abrimos los domingos.
+7-Hacer la fecha en el panel separado cuando usamos CTRL+C sin 0 al principio
