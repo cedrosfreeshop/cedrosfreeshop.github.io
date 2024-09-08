@@ -1,5 +1,7 @@
-1-Use a class to blur the screen in locked mode, to reduze the size of the app, and make the blur automatically
-2-For every month, create a folder for the payments, to scan the papel inside
-3-Clear the values of the added table when we close the cash
-4-Save the values of the added table automatically with a new method
-5-Cleanup the code
+1-Add a short key (CTRL+RIGHT) to not go to the next case on spend, aggregates, and item description
+2-Add the missing short key on the invoice frame 
+3-Add every item possible in the invoice and spend and aggregate case to autocomplete it easily
+4-Fix the location for the pix button when we are on the highest resolution
+5-Reduce the app size by compressing the gif image
+6-Make the separated image taken on Saturday to prevent not taking it when we don't open on Sundays
+7-Make the date in the separated panel when we use CTRL+C without 0 at first
