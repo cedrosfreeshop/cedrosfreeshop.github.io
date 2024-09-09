@@ -1,7 +1,14 @@
-1-Add a short key (CTRL+RIGHT) to not go to the next case on spend, aggregates, and item description
-2-Add the missing short key on the invoice frame 
-3-Add every item possible in the invoice and spend and aggregate case to autocomplete it easily
-4-Fix the location for the pix button when we are on the highest resolution
-5-Reduce the app size by compressing the gif image
-6-Make the separated image taken on Saturday to prevent not taking it when we don't open on Sundays
-7-Make the date in the separated panel when we use CTRL+C without 0 at first
+!New design!
+1.Remove the buttons and stay with the dock only
+2.Replace the invoice with the end day on The dock
+3.For the diffence, make it as a half circle downside the total, wich appears when the mouse enter the total
+4.Replace the column name from B to C
+5.Let the table background excatly like the frame
+6.Change the color of the summary, spend and aggregates tables to more simpler theme
+7.Repositon every table
+8.Remove the extra button for spend, agg and pix and make the title is the button, with a feature to disable the button when we click it and reenable it when close it
+9.The add set button is smaller and contains only the numbers
+10.The date and the dock is more centered
+11.For the calculator using the esc you can close it
+12.Move the private classes that i use to my package
+13.A lot of cleanup of the code(remove unused images, class,...)
