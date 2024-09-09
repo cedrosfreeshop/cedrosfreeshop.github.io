@@ -1,7 +1,14 @@
-1-Ajoutez un raccourci clavier (CTRL+DROITE) pour ne pas passer au cas suivant sur les dépenses, les agrégats et la description de l'article
-2-Ajoutez le raccourci clavier manquant sur le cadre de la facture
-3-Ajoutez tous les éléments possibles dans la facture et le cas des dépenses et des agrégats pour les compléter automatiquement facilement
-4-Corrigez l'emplacement du bouton pix lorsque nous sommes sur la résolution la plus élevée
-5-Réduisez la taille de l'application en compressant l'image gif
-6-Faites en sorte que l'image séparée soit prise le samedi pour éviter de ne pas la prendre lorsque nous n'ouvrons pas le dimanche
-7-Faites la date dans le panneau séparé lorsque nous utilisons CTRL+C sans 0 au début
+! Nouveau design !
+1. Supprimez les boutons et restez avec le dock uniquement
+2. Remplacez la facture par le jour de fin sur le dock
+3. Pour la différence, faites-en un demi-cercle en dessous du total, qui apparaît lorsque la souris entre le total
+4. Remplacez le nom de la colonne de B à C
+5. Laissez l'arrière-plan du tableau exactement comme le cadre
+6. Changez la couleur des tableaux de résumé, de dépenses et d'agrégats pour un thème plus simple
+7. Repositionnez chaque tableau
+8. Supprimez le bouton supplémentaire pour les dépenses, les agg et les pixels et faites en sorte que le titre soit le bouton, avec une fonction pour désactiver le bouton lorsque nous cliquons dessus et le réactiver lorsque nous le fermons
+9. Le bouton d'ajout d'ensemble est plus petit et ne contient que les chiffres
+10. La date et le dock sont plus centrés
+11. Pour la calculatrice utilisant l'esc, vous pouvez la fermer
+12. Déplacez les classes privées que j'utilise vers mon package
+13. Beaucoup de nettoyage du code (supprimez les images inutilisées, la classe,...)
