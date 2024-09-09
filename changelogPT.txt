@@ -1,7 +1,14 @@
-1-Adicione uma tecla curta (CTRL+DIREITA) para não ir para o próximo caso de gastos, agregados e descrição do item
-2-Adicione a tecla curta que falta no quadro da fatura
-3-Adicione todos os itens possíveis na fatura e gaste e agregue o caso para preenchê-lo automaticamente com facilidade
-4-Corrigir a localização do botão pix quando estivermos na resolução mais alta
-5-Reduza o tamanho do aplicativo compactando a imagem GIF
-6-Faça a imagem separada tirada no sábado para evitar não tirar quando não abrirmos aos domingos
-7-Faça a data no painel separado quando usarmos CTRL+C sem 0 a princípio
+!Novo design!
+1. Remova os botões e fique apenas com o dock
+2. Substitua a fatura pelo dia final no dock
+3. Para a diferença, faça um semicírculo abaixo do total, que aparece quando o mouse insere o total
+4. Substitua o nome da coluna de B para C
+5. Deixe o fundo da tabela exatamente como o quadro
+6. Altere a cor das tabelas de resumo, gastos e agregados para um tema mais simples
+7. Reposicione cada tabela
+8. Remova o botão extra para gastos, agregados e pixels e faça o título ser o botão, com um recurso para desabilitar o botão quando clicamos nele e reabilitá-lo quando fechá-lo
+9. O botão Adicionar conjunto é menor e contém apenas os números
+10. A data e o dock são mais centralizados
+11. Para a calculadora usando o esc, você pode fechá-lo
+12. Mova as classes privadas que eu uso para meu pacote
+13. Muita limpeza do código (remova imagens não utilizadas, classe,...)
