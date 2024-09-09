@@ -1,7 +1,14 @@
-1-Agregue una tecla breve (CTRL+DERECHA) para no pasar al siguiente caso sobre gastos, agregados y descripción del artículo.
-2-Agregue la clave corta que falta en el marco de la factura
-3-Agregue todos los elementos posibles en la factura y gaste y agregue el caso para autocompletarlo fácilmente
-4-Corregir la ubicación del botón de foto cuando estemos en la resolución más alta
-5-Reduce el tamaño de la aplicación comprimiendo la imagen gif
-6-Haz la imagen separada tomada el sábado para evitar no tomarla cuando no abrimos los domingos.
-7-Hacer la fecha en el panel separado cuando usamos CTRL+C sin 0 al principio
+¡Nuevo diseño!
+1.Eliminar los botones y quedarse solo con el dock
+2.Reemplazar la factura con el día de finalización en el dock
+3.Para la diferencia, hacerla como un semicírculo debajo del total, que aparece cuando el mouse ingresa el total
+4.Reemplazar el nombre de la columna de B a C
+5.Dejar que el fondo de la tabla sea exactamente como el marco
+6.Cambiar el color de las tablas de resumen, gastos y agregados a un tema más simple
+7.Reubicar cada tabla
+8.Eliminar el botón adicional para gastos, agregados y fotos y hacer que el título sea el botón, con una función para deshabilitar el botón cuando hacemos clic en él y volver a habilitarlo cuando lo cerramos
+9.El botón para agregar conjunto es más pequeño y contiene solo los números
+10.La fecha y el dock están más centrados
+11.Para la calculadora, al usar la tecla esc, puedes cerrarla
+12.Mover las clases privadas que uso a mi paquete
+13.Mucha limpieza del código (eliminar imágenes, clases, etc. sin usar)
