@@ -1,14 +1,10 @@
-! Nouveau design !
-1. Supprimez les boutons et restez avec le dock uniquement
-2. Remplacez la facture par le jour de fin sur le dock
-3. Pour la différence, faites-en un demi-cercle en dessous du total, qui apparaît lorsque la souris entre le total
-4. Remplacez le nom de la colonne de B à C
-5. Laissez l'arrière-plan du tableau exactement comme le cadre
-6. Changez la couleur des tableaux de résumé, de dépenses et d'agrégats pour un thème plus simple
-7. Repositionnez chaque tableau
-8. Supprimez le bouton supplémentaire pour les dépenses, les agg et les pixels et faites en sorte que le titre soit le bouton, avec une fonction pour désactiver le bouton lorsque nous cliquons dessus et le réactiver lorsque nous le fermons
-9. Le bouton d'ajout d'ensemble est plus petit et ne contient que les chiffres
-10. La date et le dock sont plus centrés
-11. Pour la calculatrice utilisant l'esc, vous pouvez la fermer
-12. Déplacez les classes privées que j'utilise vers mon package
-13. Beaucoup de nettoyage du code (supprimez les images inutilisées, la classe,...)
+1-Changer la couleur du total et la couleur manquante de la valeur initiale
+2-Faire la boîte de dialogue pour les vingt comme notification pendant 3 secondes
+3-Corriger la valeur pour la valeur du jour suivant
+4-Ajouter la valeur pix comme premier chiffre lorsque nous voulons en ajouter plus
+5-À la fin de la semaine, lorsqu'une capture d'écran a eu lieu, les valeurs se réinitialisent automatiquement et la première valeur est le total
+6-Tous les jours, à la fin, une petite notification apparaît pour passer en revue le caissier pendant 3 secondes
+7-Changer la couleur et la bordure du dock
+8-Changer la densité de la couleur rouge, bleu et vert
+9-Supprimer un son que j'ai fait pour le plaisir
+10-Supprimer une méthode et les ajouter à une classe séparée
