@@ -1,14 +1,10 @@
-¡Nuevo diseño!
-1.Eliminar los botones y quedarse solo con el dock
-2.Reemplazar la factura con el día de finalización en el dock
-3.Para la diferencia, hacerla como un semicírculo debajo del total, que aparece cuando el mouse ingresa el total
-4.Reemplazar el nombre de la columna de B a C
-5.Dejar que el fondo de la tabla sea exactamente como el marco
-6.Cambiar el color de las tablas de resumen, gastos y agregados a un tema más simple
-7.Reubicar cada tabla
-8.Eliminar el botón adicional para gastos, agregados y fotos y hacer que el título sea el botón, con una función para deshabilitar el botón cuando hacemos clic en él y volver a habilitarlo cuando lo cerramos
-9.El botón para agregar conjunto es más pequeño y contiene solo los números
-10.La fecha y el dock están más centrados
-11.Para la calculadora, al usar la tecla esc, puedes cerrarla
-12.Mover las clases privadas que uso a mi paquete
-13.Mucha limpieza del código (eliminar imágenes, clases, etc. sin usar)
+1-Cambiar el color del total y el color faltante del valor inicial
+2-Hacer que el diálogo de los veinte aparezca como una notificación durante 3 segundos
+3-Arreglar el valor para el valor del día siguiente
+4-Agregar el valor de pix como el primer número cuando queramos agregar más
+5-Al final de la semana, cuando se toma una captura de pantalla, los valores se restablecen automáticamente y el primer valor es el total
+6-Todos los días, al final, aparece una pequeña notificación para revisar el cajero durante 3 segundos
+7-Cambiar el color y el borde del dock
+8-Cambiar la densidad del color rojo, azul y verde
+9-Eliminar algunos sonidos que hice por diversión
+10-Eliminar algunos métodos y agregarlos a una clase separada
