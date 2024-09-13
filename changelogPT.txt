@@ -1,14 +1,10 @@
-!Novo design!
-1. Remova os botões e fique apenas com o dock
-2. Substitua a fatura pelo dia final no dock
-3. Para a diferença, faça um semicírculo abaixo do total, que aparece quando o mouse insere o total
-4. Substitua o nome da coluna de B para C
-5. Deixe o fundo da tabela exatamente como o quadro
-6. Altere a cor das tabelas de resumo, gastos e agregados para um tema mais simples
-7. Reposicione cada tabela
-8. Remova o botão extra para gastos, agregados e pixels e faça o título ser o botão, com um recurso para desabilitar o botão quando clicamos nele e reabilitá-lo quando fechá-lo
-9. O botão Adicionar conjunto é menor e contém apenas os números
-10. A data e o dock são mais centralizados
-11. Para a calculadora usando o esc, você pode fechá-lo
-12. Mova as classes privadas que eu uso para meu pacote
-13. Muita limpeza do código (remova imagens não utilizadas, classe,...)
+1-Altere a cor do total e a cor ausente do valor inicial
+2-Faça o diálogo para os vinte como notificação por 3 segundos
+3-Corrija o valor para o valor do dia seguinte
+4-Adicione o valor pix como o primeiro número quando quisermos adicionar mais
+5-No final da semana, quando uma captura de tela é feita, os valores são redefinidos automaticamente e o primeiro valor é o total
+6-Todos os dias, no final, uma pequena notificação aparece para revisar o caixa por 3 segundos
+7-Altere a cor e a borda do dock
+8-Altere a densidade das cores vermelho, azul e verde
+9-Remova algum som que fiz por diversão
+10-Remova algum método e adicione-os à classe separada
