@@ -14,9 +14,10 @@ REALES/PESOS FRAME:
   - A FRAME THAT COMPARE THE SALE FOT EVERY DAY WITH THE SAME DAY LAST YEAR.
   - A FRAME TO REVIEW THE MONTH(COMPARE IT WITH THE MONTHS BEFORE AND THE SAME MONTH LAST YEAR AND GIVE THE PEAK FOR THE MONTH).
   - A FRAME TO REVIEW THE YEAR(COMPARE WITH LAST YEAR, GIVE THE PEAKS AND DETAIL THE MONTHS).
+  - A MINI CALCULATOR TO USE FASTLY
 
 THE INVOICE FRAME:
-  - CALCULATE THE SUM OF A NOTE AND GIVE THE CHANGE WITH 3 METHODS.
+  - CALCULATE THE SUM OF A NOTE AND GIVE THE CHANGE WITH 3 METHODS OR USING PIX.
   - THE FIRST METHOD USE THE CASH VALUES TO GIVE SMARTLY THE CHANGE.
   - THE SECOND AND THIRD METHOD IS PRACTICAL AND COMMUN.
   - IT IS ADD THE VALUES IMMEDIATLY TO THE MAIN FRAME.
@@ -78,21 +79,24 @@ LE CADRE DE FACTURE :
    - C'EST AJOUTER IMMÉDIATEMENT LES VALEURS AU CADRE PRINCIPAL.
    - 
 PREVIEW:
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro1.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro2.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro3.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro4.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro5.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro6.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%201.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%202.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%203.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%204.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%205.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales%206.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos%201.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoice.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/key%20shortcut.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW1.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW13.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW11.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW12.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/ABOUT.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/ABOUT%20APP.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW3.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW4.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW5.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW2.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW7.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW21.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW22.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW31.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW32.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW6.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEW8.png)
+![alt text](https://raw.githubusercontent.com/cedrosfreeshop/cedrosfreeshop.github.io/main/PREVIEW/PREVIEWEXTRA.png)
 
 [DOWNLOAD](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/releases)
            
