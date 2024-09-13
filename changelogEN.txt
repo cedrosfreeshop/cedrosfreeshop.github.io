@@ -1,14 +1,10 @@
-!New design!
-1.Remove the buttons and stay with the dock only
-2.Replace the invoice with the end day on The dock
-3.For the diffence, make it as a half circle downside the total, wich appears when the mouse enter the total
-4.Replace the column name from B to C
-5.Let the table background excatly like the frame
-6.Change the color of the summary, spend and aggregates tables to more simpler theme
-7.Repositon every table
-8.Remove the extra button for spend, agg and pix and make the title is the button, with a feature to disable the button when we click it and reenable it when close it
-9.The add set button is smaller and contains only the numbers
-10.The date and the dock is more centered
-11.For the calculator using the esc you can close it
-12.Move the private classes that i use to my package
-13.A lot of cleanup of the code(remove unused images, class,...)
+1-Change the color of total and the missing color of initial value
+2-Make the dialog for the twenties as notification for 3 seconds
+3-Fix the value for the next day value
+4-Add the pix value as the first numer when we want to add more
+5-At the end of the week, when a screenshot took a place, the values are resetting automatically and the first value is the total
+6-Everyday, at the end, a small notification appears to review the cashier for 3 seconds
+7-Change the dock color and border
+8-Change the density of the color red,blue and green
+9-Remove some sound that i made for fun
+10-Remove some method and add them to separated class
