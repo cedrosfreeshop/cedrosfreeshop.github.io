@@ -1,10 +1,6 @@
-1-Altere a cor do total e a cor ausente do valor inicial
-2-Faça o diálogo para os vinte como notificação por 3 segundos
-3-Corrija o valor para o valor do dia seguinte
-4-Adicione o valor pix como o primeiro número quando quisermos adicionar mais
-5-No final da semana, quando uma captura de tela é feita, os valores são redefinidos automaticamente e o primeiro valor é o total
-6-Todos os dias, no final, uma pequena notificação aparece para revisar o caixa por 3 segundos
-7-Altere a cor e a borda do dock
-8-Altere a densidade das cores vermelho, azul e verde
-9-Remova algum som que fiz por diversão
-10-Remova algum método e adicione-os à classe separada
+1-Altere o estilo da dica de ferramenta de acordo com o plano de fundo
+2-Evitar reescrever o quadro separado no sábado
+3-A notificação aparece apenas quando terminamos o dia
+4-Adicione algumas palavras para a descrição
+5-Corrija a diferença na resolução 4k
+6-Altere o nome da pasta da sub-biblioteca
