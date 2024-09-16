@@ -1,10 +1,6 @@
-1-Change the color of total and the missing color of initial value
-2-Make the dialog for the twenties as notification for 3 seconds
-3-Fix the value for the next day value
-4-Add the pix value as the first numer when we want to add more
-5-At the end of the week, when a screenshot took a place, the values are resetting automatically and the first value is the total
-6-Everyday, at the end, a small notification appears to review the cashier for 3 seconds
-7-Change the dock color and border
-8-Change the density of the color red,blue and green
-9-Remove some sound that i made for fun
-10-Remove some method and add them to separated class
+1-Change the tooltip style according to the background
+2-Prevent take rewrite the separated frame at saturday
+3-The notification appears only when we end the day
+4-Add some words for the description
+5-Fix the difference in 4k resolution
+6-Change the name of sub-library folder
