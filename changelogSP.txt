@@ -1,10 +1,6 @@
-1-Cambiar el color del total y el color faltante del valor inicial
-2-Hacer que el diálogo de los veinte aparezca como una notificación durante 3 segundos
-3-Arreglar el valor para el valor del día siguiente
-4-Agregar el valor de pix como el primer número cuando queramos agregar más
-5-Al final de la semana, cuando se toma una captura de pantalla, los valores se restablecen automáticamente y el primer valor es el total
-6-Todos los días, al final, aparece una pequeña notificación para revisar el cajero durante 3 segundos
-7-Cambiar el color y el borde del dock
-8-Cambiar la densidad del color rojo, azul y verde
-9-Eliminar algunos sonidos que hice por diversión
-10-Eliminar algunos métodos y agregarlos a una clase separada
+1-Cambiar el estilo de la información sobre herramientas según el fondo
+2-Evitar que se reescriban los cuadros separados los sábados
+3-La notificación aparece solo cuando terminamos el día
+4-Agregar algunas palabras para la descripción
+5-Arreglar la diferencia en la resolución 4k
+6-Cambiar el nombre de la carpeta de la sub-biblioteca
