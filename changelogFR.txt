@@ -1,10 +1,6 @@
-1-Changer la couleur du total et la couleur manquante de la valeur initiale
-2-Faire la boîte de dialogue pour les vingt comme notification pendant 3 secondes
-3-Corriger la valeur pour la valeur du jour suivant
-4-Ajouter la valeur pix comme premier chiffre lorsque nous voulons en ajouter plus
-5-À la fin de la semaine, lorsqu'une capture d'écran a eu lieu, les valeurs se réinitialisent automatiquement et la première valeur est le total
-6-Tous les jours, à la fin, une petite notification apparaît pour passer en revue le caissier pendant 3 secondes
-7-Changer la couleur et la bordure du dock
-8-Changer la densité de la couleur rouge, bleu et vert
-9-Supprimer un son que j'ai fait pour le plaisir
-10-Supprimer une méthode et les ajouter à une classe séparée
+1-Modifier le style de l'infobulle en fonction de l'arrière-plan
+2-Éviter de réécrire le cadre séparé le samedi
+3-La notification n'apparaît qu'à la fin de la journée
+4-Ajouter quelques mots pour la description
+5-Corriger la différence de résolution 4k
+6-Modifier le nom du dossier de la sous-bibliothèque
