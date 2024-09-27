@@ -1,6 +1,6 @@
-1-Altere o estilo da dica de ferramenta de acordo com o plano de fundo
-2-Evitar reescrever o quadro separado no sábado
-3-A notificação aparece apenas quando terminamos o dia
-4-Adicione algumas palavras para a descrição
-5-Corrija a diferença na resolução 4k
-6-Altere o nome da pasta da sub-biblioteca
+1-Adicione uma animação da célula errada para a seção de usuário/senha
+2-Torne a captura de tela para o separado mais precisa
+3-Altere o ícone para ocultar/mostrar senha
+4-Corrija a captura de tela para o separado quando houver 5 semanas
+5-Organize a foto do dinheiro
+6-Remova códigos desnecessários
