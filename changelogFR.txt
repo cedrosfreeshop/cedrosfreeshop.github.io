@@ -1,6 +1,6 @@
-1-Modifier le style de l'infobulle en fonction de l'arrière-plan
-2-Éviter de réécrire le cadre séparé le samedi
-3-La notification n'apparaît qu'à la fin de la journée
-4-Ajouter quelques mots pour la description
-5-Corriger la différence de résolution 4k
-6-Modifier le nom du dossier de la sous-bibliothèque
+1-Ajouter une animation de la cellule erronée pour la section utilisateur/mot de passe
+2-Rendre la capture d'écran pour le séparé plus précise
+3-Modifier l'icône pour masquer/afficher le mot de passe
+4-Corriger la capture d'écran pour le séparé lorsqu'il y a 5 semaines
+5-Organiser la photo de l'argent
+6-Supprimer les codes inutiles
