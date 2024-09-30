@@ -1,4 +1,4 @@
-# cedros/narjes
+### CEDROS
 App for the Cedros free Shop
 https://cedrosfreeshop.github.io/
 
