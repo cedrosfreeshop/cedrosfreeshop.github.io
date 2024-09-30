@@ -1,6 +1,6 @@
-1-Ajouter une animation de la cellule erronée pour la section utilisateur/mot de passe
-2-Rendre la capture d'écran pour le séparé plus précise
-3-Modifier l'icône pour masquer/afficher le mot de passe
-4-Corriger la capture d'écran pour le séparé lorsqu'il y a 5 semaines
-5-Organiser la photo de l'argent
-6-Supprimer les codes inutiles
+1-Ajouter une option pour jouer un effet sonore ou non
+2-Ajouter un élément de barre de menu du journal des modifications
+3-Correction de la détection si l'écran est flou
+4-Demander la mise au point pour prendre une capture d'écran
+5-Supprimez la fonction inutile pour vérifier si l'écran est flou
+6-Faites de l'effet sonore une fonction pour nettoyer le code
