@@ -1,6 +1,6 @@
-1-Add an animation of the wrong cell for the user/password section
-2-Make the screenshoot for the separated more accurate
-3-Change the icon for hide/show password
-4-Fix the screenshot for the separated when there is 5 weeks
-5-Organize the photo of money
-6-Remove unnecessary codes
+1-Add an option to play sound effects or not
+2-Add a changelog menu bar item
+3-Fix detecting if the screen is blurred
+4-Request focus to take a screenshot
+5-Remove the unnecessary function to check if blurred
+6-Make the sound effect a function to clean up the code
