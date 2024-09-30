@@ -1,6 +1,6 @@
-1-Agregar una animación de la celda incorrecta para la sección de usuario/contraseña
-2-Hacer que la captura de pantalla para los separados sea más precisa
-3-Cambiar el ícono para ocultar/mostrar contraseña
-4-Arreglar la captura de pantalla para los separados cuando haya 5 semanas
-5-Organizar la foto del dinero
-6-Eliminar códigos innecesarios
+1-Agregar una opción para reproducir o no el efecto de sonido
+2-Agregar un elemento de la barra de menú del registro de cambios
+3-Reparar la detección de si la pantalla está borrosa
+4-Solicitar el foco para tomar una captura de pantalla
+5-Eliminar la función innecesaria para verificar si está borrosa
+6-Convertir el efecto de sonido en una función para limpiar el código
