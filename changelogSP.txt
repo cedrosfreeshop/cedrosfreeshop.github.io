@@ -1,6 +1,3 @@
-1-Agregar una opción para reproducir o no el efecto de sonido
-2-Agregar un elemento de la barra de menú del registro de cambios
-3-Reparar la detección de si la pantalla está borrosa
-4-Solicitar el foco para tomar una captura de pantalla
-5-Eliminar la función innecesaria para verificar si está borrosa
-6-Convertir el efecto de sonido en una función para limpiar el código
+1-Agrega una pestaña de recordatorios, para recordarte las facturas, categorizadas diariamente, semanalmente y mensualmente
+2-Cuando escribes 'separado' entra directamente al cuadro separado para hacer los cambios
+3-La pestaña de recordatorios se abre automáticamente 5 veces al día
