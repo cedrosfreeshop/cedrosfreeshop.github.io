@@ -1,6 +1,3 @@
-1-Adicione uma opção para reproduzir efeito sonoro ou não
-2-Adicione um item de barra de menu de changelog
-3-Corrija a detecção se a tela está desfocada
-4-Solicite foco para tirar captura de tela
-5-Remova a função desnecessária para verificar se está desfocada
-6-Faça o efeito sonoro como função para limpar o código
+1-Adicione uma aba de lembrete, para lembrá-lo sobre as contas, categorizadas diariamente, semanalmente e mensalmente
+2-Quando você escreve 'separado' ele entra diretamente no quadro separado para fazer as alterações
+3-A aba de lembrete abre automaticamente 5 vezes no dia
