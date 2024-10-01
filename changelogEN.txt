@@ -1,6 +1,3 @@
-1-Add an option to play sound effects or not
-2-Add a changelog menu bar item
-3-Fix detecting if the screen is blurred
-4-Request focus to take a screenshot
-5-Remove the unnecessary function to check if blurred
-6-Make the sound effect a function to clean up the code
+1-Add a reminder tab, to reminde you about the bills, categorized daily, weekly and monthly
+2-When you write 'separado' it directly enter the separated frame to do the changes
+3-The reminder tab open automatically 5 times in the day
