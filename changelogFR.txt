@@ -1,6 +1,3 @@
-1-Ajouter une option pour jouer un effet sonore ou non
-2-Ajouter un élément de barre de menu du journal des modifications
-3-Correction de la détection si l'écran est flou
-4-Demander la mise au point pour prendre une capture d'écran
-5-Supprimez la fonction inutile pour vérifier si l'écran est flou
-6-Faites de l'effet sonore une fonction pour nettoyer le code
+1-Ajoutez un onglet de rappel, pour vous rappeler les factures, classées quotidiennement, hebdomadairement et mensuellement
+2-Lorsque vous écrivez « séparé », il entre directement dans le cadre séparé pour effectuer les modifications
+3-L'onglet de rappel s'ouvre automatiquement 5 fois dans la journée
