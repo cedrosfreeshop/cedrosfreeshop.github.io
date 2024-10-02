@@ -1,3 +1,11 @@
-1-Adicione uma aba de lembrete, para lembrá-lo sobre as contas, categorizadas diariamente, semanalmente e mensalmente
-2-Quando você escreve 'separado' ele entra diretamente no quadro separado para fazer as alterações
-3-A aba de lembrete abre automaticamente 5 vezes no dia
+1-Fechar o diálogo quando apertamos X ou não inserimos o nome ou o total é nulo no diálogo de impressão da fatura
+2-Adicionar ToolTip quando precisamos em todos os quadros
+3-Adicionar um botão de impressão no quadro da fatura
+4-O restante não abre automaticamente
+5-[DIÁLOGO MODERNO]
+a. Substituir o diálogo por um moderno criado por mim
+b. Estilo moderno com mais facilidade
+c. Pressionar 'ESC' para fechá-lo
+d. Exibir multilinha com facilidade
+e. Adaptar o tamanho do texto e do botão
+f. Animação de fade
