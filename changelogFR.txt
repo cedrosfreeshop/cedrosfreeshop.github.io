@@ -1,3 +1,11 @@
-1-Ajoutez un onglet de rappel, pour vous rappeler les factures, classées quotidiennement, hebdomadairement et mensuellement
-2-Lorsque vous écrivez « séparé », il entre directement dans le cadre séparé pour effectuer les modifications
-3-L'onglet de rappel s'ouvre automatiquement 5 fois dans la journée
+1-Fermer la boîte de dialogue lorsque nous appuyons sur X ou que nous n'insérons pas de nom ou que le total est nul dans la boîte de dialogue d'impression de la facture
+2-Ajouter une info-bulle lorsque nous en avons besoin dans tous les cadres
+3-Ajouter un bouton d'impression dans le cadre de la facture
+4-Le reste ne s'ouvre pas automatiquement
+5-[DIALOGUE MODERNE]
+a. Remplacer la boîte de dialogue par une boîte de dialogue moderne créée par moi
+b. Style moderne avec plus de facilité
+c. Appuyez sur « ESC » pour la fermer
+d. Afficher plusieurs lignes en toute simplicité
+e. Adapter la taille du texte et du bouton
+f. Animation de fondu
