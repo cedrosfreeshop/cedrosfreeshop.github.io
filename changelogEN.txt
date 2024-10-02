@@ -1,3 +1,11 @@
-1-Add a reminder tab, to reminde you about the bills, categorized daily, weekly and monthly
-2-When you write 'separado' it directly enter the separated frame to do the changes
-3-The reminder tab open automatically 5 times in the day
+1-Close the dialog when we hit X or we dont insert name or the total is null on the print invoice dialog
+2-Add ToolTip when we need in all frames
+3-Add a print button in the invoice frame
+4-The remainder does not open automatically
+5-[MODERN DIALOG] 
+ a. Replace the dialog with a modern one created by me
+ b. Modern style with more ease
+ c. Press 'ESC' to close it
+ d. Display multiline with ease
+ e. Adpot the size of text and button
+ f. Fade animation
