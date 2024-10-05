@@ -1,11 +1,7 @@
-1-Close the dialog when we hit X or we dont insert name or the total is null on the print invoice dialog
-2-Add ToolTip when we need in all frames
-3-Add a print button in the invoice frame
-4-The remainder does not open automatically
-5-[MODERN DIALOG] 
- a. Replace the dialog with a modern one created by me
- b. Modern style with more ease
- c. Press 'ESC' to close it
- d. Display multiline with ease
- e. Adpot the size of text and button
- f. Fade animation
+1-Add a detailed graph option
+ a. Show the sales according to the days for every month
+ b. Show the sales according to the months for the year
+ c. Option to show for the interios months 
+ d. At the end of every month/year the graph will save as png
+2-Add max/min of every day(monday, tuesday,..) in the current year to the yearly summary/exported file
+3-Fix a critical error when the ultimate day of the month does not count as a day for the monthly/yearly summary
