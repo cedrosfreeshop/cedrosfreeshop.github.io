@@ -1,11 +1,7 @@
-1-Cerrar el diálogo cuando pulsamos X o no insertamos el nombre o el total es nulo en el diálogo de impresión de factura
-2-Añadir información sobre herramientas cuando la necesitemos en todos los marcos
-3-Añadir un botón de impresión en el marco de la factura
-4-El resto no se abre automáticamente
-5-[DIÁLOGO MODERNO]
-a. Reemplazar el diálogo por uno moderno creado por mí
-b. Estilo moderno con más facilidad
-c. Presionar 'ESC' para cerrarlo
-d. Mostrar varias líneas con facilidad
-e. Adaptar el tamaño del texto y del botón
-f. Animación de desvanecimiento
+1-Agregar una opción de gráfico detallado
+  a. Mostrar las ventas según los días de cada mes
+  b. Mostrar las ventas según los meses del año
+  c. Opción para mostrar los meses intermedios
+  d. Al final de cada mes/año, el gráfico se guardará como png
+2-Agregar el máximo/mínimo de cada día (lunes, martes,...) del año actual al resumen anual/archivo exportado
+3-Corregir un error crítico cuando el último día del mes no cuenta como día para el resumen mensual/anual
