@@ -1,11 +1,7 @@
-1-Fechar o diálogo quando apertamos X ou não inserimos o nome ou o total é nulo no diálogo de impressão da fatura
-2-Adicionar ToolTip quando precisamos em todos os quadros
-3-Adicionar um botão de impressão no quadro da fatura
-4-O restante não abre automaticamente
-5-[DIÁLOGO MODERNO]
-a. Substituir o diálogo por um moderno criado por mim
-b. Estilo moderno com mais facilidade
-c. Pressionar 'ESC' para fechá-lo
-d. Exibir multilinha com facilidade
-e. Adaptar o tamanho do texto e do botão
-f. Animação de fade
+1-Adicione uma opção de gráfico detalhado
+a. Mostre as vendas de acordo com os dias de cada mês
+b. Mostre as vendas de acordo com os meses do ano
+c. Opção para mostrar os meses internos
+d. No final de cada mês/ano, o gráfico será salvo como png
+2-Adicione o máximo/mínimo de cada dia (segunda, terça,...) no ano atual ao resumo anual/arquivo exportado
+3-Corrija um erro crítico quando o último dia do mês não conta como um dia para o resumo mensal/anual
