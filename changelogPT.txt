@@ -1,7 +1,0 @@
-1-Adicione uma opção de gráfico detalhado
-a. Mostre as vendas de acordo com os dias de cada mês
-b. Mostre as vendas de acordo com os meses do ano
-c. Opção para mostrar os meses internos
-d. No final de cada mês/ano, o gráfico será salvo como png
-2-Adicione o máximo/mínimo de cada dia (segunda, terça,...) no ano atual ao resumo anual/arquivo exportado
-3-Corrija um erro crítico quando o último dia do mês não conta como um dia para o resumo mensal/anual

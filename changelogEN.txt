@@ -1,7 +1,0 @@
-1-Add a detailed graph option
- a. Show the sales according to the days for every month
- b. Show the sales according to the months for the year
- c. Option to show for the interios months 
- d. At the end of every month/year the graph will save as png
-2-Add max/min of every day(monday, tuesday,..) in the current year to the yearly summary/exported file
-3-Fix a critical error when the ultimate day of the month does not count as a day for the monthly/yearly summary

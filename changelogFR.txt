@@ -1,7 +1,0 @@
-1-Ajouter une option de graphique détaillé
-a. Afficher les ventes selon les jours de chaque mois
-b. Afficher les ventes selon les mois de l'année
-c. Option d'affichage pour les mois intermédiaires
-d. À la fin de chaque mois/année, le graphique sera enregistré au format png
-2-Ajouter le max/min de chaque jour (lundi, mardi, ..) de l'année en cours au fichier de résumé annuel/exporté
-3-Correction d'une erreur critique lorsque le dernier jour du mois ne compte pas comme un jour pour le résumé mensuel/annuel
