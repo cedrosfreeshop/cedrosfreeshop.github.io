@@ -80,55 +80,55 @@ LE CADRE DE FACTURE :
 PREVIEW:
  - ## INTRO:
 
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro1.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/intro2.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/about.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/changelog.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/downgrade.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/setting.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/shortkey.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/update.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/intro2.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/about.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/changelog.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/downgrade.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/setting.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/shortkey.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/update.png)
 
  - ## REALES:
 
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales1.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales2.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales3.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales4.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales5.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales6.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales7.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales8.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales9.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/reales10.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales2.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales3.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales4.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales5.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales6.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales7.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales8.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales9.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales10.png)
 
  - ## SUMMARY AND GRAPH:
 
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/summarytoday.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/summarymonth.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/summaryyear.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/summaryeffect.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/graphmonth.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/graphyear.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/graphallyear.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/summarytoday.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/summarymonth.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/summaryyear.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/summaryeffect.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/graphmonth.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/graphyear.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/graphallyear.png)
 
  - ## EXTRA:
 
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/calculator.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/bills.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/holiday.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/calculator.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/bills.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/holiday.png)
 
  - ## PESOS:
 
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/pesos1.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/pesos2.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos2.png)
 
  - ## INVOICE:
 
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/invoicer.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/invoicep.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/invoice1.png)
-![alt text](https://github.com/MhmdSAbdlh/cedros/blob/main/preview/invoice2.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoicer.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoicep.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoice1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/invoice2.png)
            
 
            MOHAMAD ABDALLAH ABBASS ©
