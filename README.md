@@ -271,7 +271,8 @@ PREVIEW:
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/downgrade.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/setting.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/shortkey.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/update.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/update1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/update2.png)
 
  - ## REALES:
 
