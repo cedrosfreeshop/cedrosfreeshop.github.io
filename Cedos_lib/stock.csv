@@ -1,15 +1,15 @@
-Ventilador Commun,75,70,Electronica
-Ventialdor graus360,24,16,Electronica
+Ventilador Commun,75,73,Electronica
+Ventialdor graus360,24,18,Electronica
 Ventilador Blanco,50,45,Electronica
-Jarra Inox,48,27,Electronica
-Jarra Vidrio,48,39,Electronica
+Jarra Inox,48,30,Electronica
+Jarra Vidrio,48,42,Electronica
 Toalla Banho,120,89,Banho
 Toalla Rostro,24,0,Banho
-DTVX,169,0,Electronica
+DTVX,169,1,Electronica
 Fone Shein,3,1,Electronica
-Fone c/cabo,200,0,Electronica
-Camisa Fem,1000,0,Roupa
-Calzinha Fem,100,0,Roupa
+Fone c/cabo,200,1,Electronica
+Camisa Fem,1000,9,Roupa
+Calzinha Fem,100,1,Roupa
 Reloj Despertador,52,0,Electronica
 Microfone A5-4,92,0,Electronica
 Lanterna Pilha AB027,242,0,Electronica
@@ -21,13 +21,13 @@ Luz Camping c/som B2-9,18,0,Electronica
 Balanca de banho AB001,256,0,Electronica
 Lanterna X900 AB022,260,0,Electronica
 Lnaterna AB021,426,0,Electronica
-Luz de Emergencia B3-4,60,0,Electronica
+Luz de Emergencia B3-4,60,2,Electronica
 Fone Gaming AB018,184,0,Electronica
 Papa Bolinha AB025,38,0,Electronica
 Microfone kit A5-3,95,0,Electronica
 Luz de Emergencia AB031,165,0,Electronica
 Lanterna Tactica AB012,13,0,Electronica
-Lanterna Militar B3-2,19,0,Electronica
+Lanterna Militar B3-2,19,2,Electronica
 Lampada c/Sensor AB038,377,0,Electronica
 Lampada c/Musica AB033,228,0,Electronica
 Aro Luz AB050,169,0,Electronica
@@ -51,10 +51,10 @@ Jogo de Ferramentas P,15,0,Brinquedos
 Jogo de Ferramentas G,3,0,Brinquedos
 Jogo de Memoria,55,0,Brinquedos
 Disco,5,0,Brinquedos
-Lanterna AB028,81,0,Electronica
+Lanterna AB028,81,2,Electronica
 Termometro,32,0,Electronica
-Cobreleito Solteiro,28,0,Cama
-Cobreleito Queen,15,0,Cama
+Cobreleito Solteiro,28,1,Cama
+Cobreleito Queen,15,1,Cama
 Jogo de Cama Queen (5 pecas),2,0,Cama
 Cobreleito King s/Frounhas,9,0,Cama
 Cobreleito King c/Frounhas,5,0,Cama
@@ -82,3 +82,45 @@ MK-B26,3,0,Som
 MK-8897,4,0,Som
 MK-07,2,0,Som
 A1-5,20,0,Som
+Faca Colorida,47,0,Bazar
+Talher Silicone,26,0,Bazar
+Percha Madera,11,0,Bazar
+Fogao a Carvao,21,0,Bazar
+Jogo Xicaras com Bule Azul X-13,3,0,Bazar
+Jogo Xicaras com Bule Vermelho X-14,2,0,Bazar
+Jogo Xicaras com Bule X-12,2,0,Bazar
+Amasador de Madeira,190,0,Bazar
+BBQ,5,0,Bazar
+Bandeja G B12-1,39,0,Bazar
+Bandeja M B12-2,44,0,Bazar
+Bandeja P B12-3,36,0,Bazar
+Jogo Xicara cafe,187,0,Bazar
+Jogo Xicara X-1,24,0,Bazar
+Jogo Xicara X-2,10,0,Bazar
+Frigideira G6,42,0,Bazar
+Frigideira G7,11,0,Bazar
+Frigideira G5,4,0,Bazar
+Soporte Toalha,21,0,Bazar
+Soporte Escova e Pasta de dentes,37,0,Bazar
+Soporte Shampoo,47,0,Bazar
+Tapa Silicone,54,0,Bazar
+Soporte Geladeira,57,0,Bazar
+Escorredor para pia,92,0,Bazar
+Copo Termico,33,0,Bazar
+Copo Carro,40,0,Bazar
+Bolera,15,0,Bazar
+Jogo Panela c/mano,2,0,Bazar
+Jogo Panela L-8,1,0,Bazar
+Jogo Xicara RB15-2,3,0,Bazar
+Talher F-5,37,0,Bazar
+Azucarera,39,0,Bazar
+Cenizero Redonda,38,0,Bazar
+Cenizero Cuadrada,22,0,Bazar
+Cenizero Grande,1,0,Bazar
+Copo Cerveja,666,0,Bazar
+Prato Acr Peq,281,0,Bazar
+Prato Acr Gra,201,0,Bazar
+Prato Vidrio,11,0,Bazar
+Luva Magica,112,0,Bazar
+Jogo Xicara com Bule X19,1,0,Bazar
+Macacao,100,1,Roupa
