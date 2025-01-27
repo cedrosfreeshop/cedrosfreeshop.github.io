@@ -1,126 +1,147 @@
-Ventilador Commun,75,73,Electronica
-Ventialdor graus360,24,18,Electronica
-Ventilador Blanco,50,45,Electronica
-Jarra Inox,48,30,Electronica
-Jarra Vidrio,48,42,Electronica
-Toalla Banho,120,89,Banho
-Toalla Rostro,24,0,Banho
-DTVX,169,1,Electronica
-Fone Shein,3,1,Electronica
-Fone c/cabo,200,1,Electronica
-Camisa Fem,1000,9,Roupa
-Calzinha Fem,100,1,Roupa
-Reloj Despertador,52,0,Electronica
-Microfone A5-4,92,0,Electronica
-Lanterna Pilha AB027,242,0,Electronica
-Luz Camping Pilha B2-5,39,0,Electronica
-Luz Camping Reccargavel B2-6,6,0,Electronica
-Luz Camping c/Ven B2-7,50,0,Electronica
-Luz Camping colrido B2-8,9,0,Electronica
-Luz Camping c/som B2-9,18,0,Electronica
-Balanca de banho AB001,256,0,Electronica
-Lanterna X900 AB022,260,0,Electronica
-Lnaterna AB021,426,0,Electronica
-Luz de Emergencia B3-4,60,2,Electronica
-Fone Gaming AB018,184,0,Electronica
-Papa Bolinha AB025,38,0,Electronica
-Microfone kit A5-3,95,0,Electronica
-Luz de Emergencia AB031,165,0,Electronica
-Lanterna Tactica AB012,13,0,Electronica
-Lanterna Militar B3-2,19,2,Electronica
-Lampada c/Sensor AB038,377,0,Electronica
-Lampada c/Musica AB033,228,0,Electronica
-Aro Luz AB050,169,0,Electronica
-Controle PS4 A2-8,130,0,Electronica
-Plancha AB041,109,0,Electronica
-Reloj Casio,23,0,Electronica
-Luz Mesa Abajur,18,0,Electronica
-Lanterna de Cabeca B3-1,94,0,Electronica
-Lanterna de Cabeca Rec,44,42,Electronica
-Camion,14,0,Brinquedos
-Jogo Jardin,62,0,Brinquedos
-Arma de Agua,69,0,Brinquedos
-Piano Drum,20,0,Brinquedos
-Jogo de Parede,22,0,Brinquedos
-Jogo de Medico,5,0,Brinquedos
-Carro c/Iman,7,0,Brinquedos
-Carro Montavel c/Controle,18,0,Brinquedos
-Telefone,49,0,Brinquedos
-Moto Montar,10,0,Brinquedos
-Jogo de Ferramentas P,15,0,Brinquedos
-Jogo de Ferramentas G,3,0,Brinquedos
-Jogo de Memoria,55,0,Brinquedos
-Disco,5,0,Brinquedos
-Lanterna AB028,81,2,Electronica
-Termometro,32,0,Electronica
-Cobreleito Solteiro,28,1,Cama
-Cobreleito Queen,15,1,Cama
-Jogo de Cama Queen (5 pecas),2,0,Cama
-Cobreleito King s/Frounhas,9,0,Cama
-Cobreleito King c/Frounhas,5,0,Cama
-Tapete Infantil P,27,0,Tapete
-Tapete Infantil G,3,0,Tapete
-Tapete Lisa 2x2.4,2,0,Tapete
-Tapete Luxo 1.8x2.5,5,0,Tapete
-Tapete Trilho,4,0,Tapete
-Tapete Peludo 2x2.4,9,0,Tapete
-Tapete Redondo,1,0,Tapete
-Tapete Banheiro,30,0,Tapete
-Meia Futbol,17,0,Meia
-Meia Plush,1,0,Meia
-Meia Masculina,200,146,Meia
-Meia Femenina,240,51,Meia
-Meia Forrada,30,10,Meia
-Meia Termica,198,132,Meia
-Meia Termica Colorida,60,22,Meia
-Meia Corta,30,24,Meia
-Cobredom Solteiro,134,133,Cama
-Cobredom Casal,180,179,Cama
-Caja AB049,1000,688,Som
-MK-B12,6,0,Som
-MK-B26,3,0,Som
-MK-8897,4,0,Som
-MK-07,2,0,Som
-A1-5,20,0,Som
-Faca Colorida,47,0,Bazar
-Talher Silicone,26,0,Bazar
-Percha Madera,11,0,Bazar
-Fogao a Carvao,21,0,Bazar
-Jogo Xicaras com Bule Azul X-13,3,0,Bazar
-Jogo Xicaras com Bule Vermelho X-14,2,0,Bazar
-Jogo Xicaras com Bule X-12,2,0,Bazar
-Amasador de Madeira,190,0,Bazar
-BBQ,5,0,Bazar
-Bandeja G B12-1,39,0,Bazar
-Bandeja M B12-2,44,0,Bazar
-Bandeja P B12-3,36,0,Bazar
-Jogo Xicara cafe,187,0,Bazar
-Jogo Xicara X-1,24,0,Bazar
-Jogo Xicara X-2,10,0,Bazar
-Frigideira G6,42,0,Bazar
-Frigideira G7,11,0,Bazar
-Frigideira G5,4,0,Bazar
-Soporte Toalha,21,0,Bazar
-Soporte Escova e Pasta de dentes,37,0,Bazar
-Soporte Shampoo,47,0,Bazar
-Tapa Silicone,54,0,Bazar
-Soporte Geladeira,57,0,Bazar
-Escorredor para pia,92,0,Bazar
-Copo Termico,33,0,Bazar
-Copo Carro,40,0,Bazar
-Bolera,15,0,Bazar
-Jogo Panela c/mano,2,0,Bazar
-Jogo Panela L-8,1,0,Bazar
-Jogo Xicara RB15-2,3,0,Bazar
-Talher F-5,37,0,Bazar
-Azucarera,39,0,Bazar
-Cenizero Redonda,38,0,Bazar
-Cenizero Cuadrada,22,0,Bazar
-Cenizero Grande,1,0,Bazar
-Copo Cerveja,666,0,Bazar
-Prato Acr Peq,281,0,Bazar
-Prato Acr Gra,201,0,Bazar
-Prato Vidrio,11,0,Bazar
-Luva Magica,112,0,Bazar
-Jogo Xicara com Bule X19,1,0,Bazar
-Macacao,100,1,Roupa
+wWzTYUB=>Q-F>((/z!}0!@0!dUWjTQ>zYjB
+wWzTYUB=>Q-cQB/qf<?!`0!".!dUWjTQ>zYjB
+wWzTYUB=>Q-VUBzj>!|?!0|!dUWjTQ>zYjB
+:BQQB-nz>[!0}!f|!dUWjTQ>zYjB
+:BQQB-wY=QY>!0}!00!dUWjTQ>zYjB
+&>BUUB-VBzX>!"`?!"?"!VBzX>
+&>BUUB-'>qTQ>!`0!f!VBzX>
+;&w4!"<.!0!dUWjTQ>zYjB
+l>zW-aXWYz!f!"!dUWjTQ>zYjB
+l>zW-jMjB7>!`??!f!dUWjTQ>zYjB
+FB(YqB-lW(!"???!""!'>/RB
+FBU,YzXB-lW(!"??!"!'>/RB
+'WU>A-;WqRWQTB=>Q!|`!`!dUWjTQ>zYjB
+EYjQ>+>zW-I|b0!.`!?!dUWjTQ>zYjB
+]BzTWQzB-eYUXB-IV?`@!`0`!?!dUWjTQ>zYjB
+]/,-FB(RYzc-eYUXB-V`b|!f.!?!dUWjTQ>zYjB
+]/,-FB(RYzc-'WjjBQcB#WU-V`b<!<!?!dUWjTQ>zYjB
+]/,-FB(RYzc-jMwWz-V`b@!|?!?!dUWjTQ>zYjB
+]/,-FB(RYzc-j>UQY=>-V`b}!.!?!dUWjTQ>zYjB
+]/,-FB(RYzc-jMq>(-V`b.!"}!?!dUWjTQ>zYjB
+VBUBzjB-=W-7BzX>-IV??"!`|<!?!dUWjTQ>zYjB
+]BzTWQzB-4.??-IV?``!`<?!?!dUWjTQ>zYjB
+]BzTWQzB-IV?`"!0`<!?!dUWjTQ>zYjB
+]/,-=W-d(WQcWzjYB-Vfb0!<?!f!dUWjTQ>zYjB
+l>zW-3B(Yzc-IV?"}!"}0!"!dUWjTQ>zYjB
+eBRB-V>UYzXB-IV?`|!f}!?!dUWjTQ>zYjB
+EYjQ>+>zW-xYT-I|bf!.|!?!dUWjTQ>zYjB
+]/,-=W-d(WQcWzjYB-IV?f"!"<|!?!dUWjTQ>zYjB
+]BzTWQzB-&BjTYjB-IV?"`!"f!?!dUWjTQ>zYjB
+]BzTWQzB-EYUYTBQ-Vfb`!".!`!dUWjTQ>zYjB
+]B(RB=B-jMaWzq>Q-IV?f}!f@@!f!dUWjTQ>zYjB
+]B(RB=B-jME/qYjB-IV?ff!``}!?!dUWjTQ>zYjB
+IQ>-]/,-IV?|?!"<.!?!dUWjTQ>zYjB
+F>zTQ>UW-ea0-I`b}!"f?!"!dUWjTQ>zYjB
+eUBzjXB-IV?0"!"?.!?!dUWjTQ>zYjB
+'WU>A-FBqY>!`f!?!dUWjTQ>zYjB
+]/,-EWqB-I7BA/Q!"}!?!dUWjTQ>zYjB
+]BzTWQzB-=W-FB7WjB-Vfb"!.0!"!dUWjTQ>zYjB
+]BzTWQzB-=W-FB7WjB-'Wj!00!0`!dUWjTQ>zYjB
+FB(Y>z!"0!?!VQYz6/W=>q
+:>c>-:BQ=Yz!<`!?!VQYz6/W=>q
+IQ(B-=W-Ic/B!<.!?!VQYz6/W=>q
+eYBz>-;Q/(!`?!?!VQYz6/W=>q
+:>c>-=W-eBQW=W!``!?!VQYz6/W=>q
+:>c>-=W-EW=Yj>!|!?!VQYz6/W=>q
+FBQQ>-jMn(Bz!@!?!VQYz6/W=>q
+FBQQ>-E>zTB#WU-jMF>zTQ>UW!"}!?!VQYz6/W=>q
+&WUW+>zW!0.!?!VQYz6/W=>q
+E>T>-E>zTBQ!"?!?!VQYz6/W=>q
+:>c>-=W-lWQQB(WzTBq-e!"|!?!VQYz6/W=>q
+:>c>-=W-lWQQB(WzTBq-3!f!?!VQYz6/W=>q
+:>c>-=W-EW(>QYB!||!?!VQYz6/W=>q
+;Yqj>!|!`!VQYz6/W=>q
+]BzTWQzB-IV?`}!}"!0!dUWjTQ>zYjB
+&WQ(>(WTQ>!f`!?!dUWjTQ>zYjB
+F>7QWUWYT>-a>UTWYQ>!`}!"!FB(B
+F>7QWUWYT>-*/WWz!"|!"!FB(B
+:>c>-=W-FB(B-*/WWz-h|-RWjBq%!`!?!FB(B
+F>7QWUWYT>-yYzc-qMlQ>/zXBq!.!?!FB(B
+F>7QWUWYT>-yYzc-jMlQ>/zXBq!|!?!FB(B
+&BRWTW-nz+BzTYU-e!`@!?!&BRWTW
+&BRWTW-nz+BzTYU-3!f!?!&BRWTW
+&BRWTW-]YqB-`[`\0!`!?!&BRWTW
+&BRWTW-]/[>-"\}[`\|!|!?!&BRWTW
+&BRWTW-&QYUX>!0!?!&BRWTW
+&BRWTW-eWU/=>-`[`\0!.!?!&BRWTW
+&BRWTW-'W=>z=>!"!?!&BRWTW
+&BRWTW-VBzXWYQ>!f?!"!&BRWTW
+EWYB-l/T7>U!"@!?!IjjWq>QY>q-=W-#WqTYQ
+EWYB-eU/qX!"!?!IjjWq>QY>q-=W-#WqTYQ
+EWYB-EBqj/UYzB!`??!"0<!IjjWq>QY>q-=W-#WqTYQ
+EWYB-lW(WzYzB!`0?!|"!IjjWq>QY>q-=W-#WqTYQ
+EWYB-l>QQB=B!f?!"?!IjjWq>QY>q-=W-#WqTYQ
+EWYB-&WQ(YjB!".}!"f`!IjjWq>QY>q-=W-#WqTYQ
+EWYB-&WQ(YjB-F>U>QY=B!<?!`f!IjjWq>QY>q-=W-#WqTYQ
+EWYB-F>QTB!f?!`0!IjjWq>QY>q-=W-#WqTYQ
+F>7QW=>(-a>UTWYQ>!"f0!"ff!FB(B
+F>7QW=>(-FBqBU!"}?!"@.!FB(B
+FBAB-IV?0.!"???!<.?!a>(
+EybV"`!<!"!a>(
+EybV`<!f!?!a>(
+Eyb}}.@!0!?!a>(
+Eyb?@!`!?!a>(
+I"b|!`?!?!a>(
+lBjB-F>U>QY=B!0@!?!VB,BQ
+&BUXWQ-aYUYj>zW!`<!?!VB,BQ
+eWQjXB-EB=WQB!""!?!VB,BQ
+l>cB>-B-FBQ#B>!`"!?!VB,BQ
+:>c>-4YjBQBq-j>(-V/UW-I,/U-4b"f!f!?!VB,BQ
+:>c>-4YjBQBq-j>(-V/UW-wWQ(WUX>-4b"0!`!?!VB,BQ
+:>c>-4YjBQBq-j>(-V/UW-4b"`!`!?!VB,BQ
+I(BqB=>Q-=W-EB=WYQB!".?!?!VB,BQ
+VV*!|!?!VB,BQ
+VBz=WAB-3-V"`b"!f.!?!VB,BQ
+VBz=WAB-E-V"`b`!00!?!VB,BQ
+VBz=WAB-e-V"`bf!f<!?!VB,BQ
+:>c>-4YjBQB-jB+W!"}@!?!VB,BQ
+:>c>-4YjBQB-4b"!`0!?!VB,BQ
+:>c>-4YjBQB-4b`!"?!?!VB,BQ
+lQYcY=WYQB-3<!0`!"!VB,BQ
+lQYcY=WYQB-3@!""!?!VB,BQ
+lQYcY=WYQB-3|!0!?!VB,BQ
+a>R>QTW-&>BUXB!`"!?!VB,BQ
+a>R>QTW-dqj>#B-W-eBqTB-=W-=WzTWq!f@!?!VB,BQ
+a>R>QTW-aXB(R>>!0@!?!VB,BQ
+&BRB-aYUYj>zW!|0!?!VB,BQ
+a>R>QTW-3WUB=WYQB!|@!?!VB,BQ
+dqj>QQW=>Q-RBQB-RYB!.`!?!VB,BQ
+F>R>-&WQ(Yj>!ff!?!VB,BQ
+F>R>-FBQQ>!0?!?!VB,BQ
+V>UWQB!"|!?!VB,BQ
+:>c>-eBzWUB-jM(Bz>!`!?!VB,BQ
+:>c>-eBzWUB-]b}!"!?!VB,BQ
+:>c>-4YjBQB-'V"|b`!f!?!VB,BQ
+&BUXWQ-lb|!f@!?!VB,BQ
+I,/jBQWQB!f.!?!VB,BQ
+FWzY,WQ>-'W=>z=B!f}!?!VB,BQ
+FWzY,WQ>-F/B=QB=B!``!f!VB,BQ
+FWzY,WQ>-3QBz=W!"!?!VB,BQ
+F>R>-FWQ#WAB!<<<!?!VB,BQ
+eQBT>-IjQ-eW6!`}"!?!VB,BQ
+eQBT>-IjQ-3QB!`?"!?!VB,BQ
+eQBT>-wY=QY>!""!?!VB,BQ
+]/#B-EBcYjB!""`!?!VB,BQ
+:>c>-4YjBQB-j>(-V/UW-4".!"!?!VB,BQ
+EBjBjB>!"??!<!'>/RB
+VU/qB-lW(WzYzB!"??!|!'>/RB
+a/WTWQWq!<<?!?!'>/RB
+]Wzj>U-a>UTWYQ>!"`f!f`!FB(B
+]Wzj>U-FBqBU!"f?!|f!FB(B
+]Wzj>U-*/WWz!0?!`<!FB(B
+]Wzj>U-yYzc!0?!@!FB(B
+&>jB-jMF/WUU>!.?!<|!IjjWq>QY>q-=W-#WqTYQ
+&>jB-l>QQB=B!"?`!f.!IjjWq>QY>q-=W-#WqTYQ
+]/#B-E>T>-l>QQB=B!"f`!@"!IjjWq>QY>q-=W-#WqTYQ
+]/#B-E>T>-eQ>+WqY>zBU!"??!?!IjjWq>QY>q-=W-#WqTYQ
+:B6/WTB-EBqj/UYzB-}}..`!0|"!@.!'>/RB
+:B6/WTB-I]b?"!f`!`!'>/RB
+:B6/WTB-I]b?`!f`!0!'>/RB
+:B6/WTB-I]b<<"!`<!"f!'>/RB
+:B6/WTB-I]b<<`!f?!"?!'>/RB
+:B6/WTB-I]b<<<!f<!f!'>/RB
+:B6/WTB-I]b"??}!`0!"|!'>/RB
+:B6/WTB-u3b`00!f|!}!'>/RB
+:B6/WTB-u:b`f0!f<!0!'>/RB
+:B6/WTB-] bf?}!f?!<!'>/RB
+:B6/WTB-I]b.`"|!`0!.!'>/RB
