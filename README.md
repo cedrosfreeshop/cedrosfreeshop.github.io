@@ -1,6 +1,8 @@
 # App for CEDROS FREE SHOP
 
-https://cedrosfreeshop.github.io/
+[WEBSITE](https://cedrosfreeshop.github.io/)
+
+[FULL SETUP](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/releases/download/v18.9/Cedros.Installer.exe)
 
 ## [EGNLISH]
 THIS APP IS DESIGNED FOR CEDROS AND NARJES FREE SHOP.
