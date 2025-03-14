@@ -1,17 +1,17 @@
 # App for CEDROS FREE SHOP
 
+THIS APP IS DESIGNED FOR CEDROS AND NARJES FREE SHOP.
+IT IS CONTAIN 4 FRAMES: REALES, PESOS AND INVOICE FOR EVERY FRAME.
+
 [WEBSITE](https://cedrosfreeshop.github.io/)
 
 [FULL SETUP](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/releases/download/v18.9/Cedros.Installer.exe)
 
-## [SPANISH](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README[SP].md)
+### [SPANISH](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README[SP].md)
 
-## [PORTUGUES](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README[PT].md)
+### [PORTUGUES](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README[PT].md)
 
-## [FRENCH](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README[FR].md)
-
-
-
+### [FRENCH](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README[FR].md)
 THIS APP IS DESIGNED FOR CEDROS AND NARJES FREE SHOP.
 IT IS CONTAIN 4 FRAMES: REALES, PESOS AND INVOICE FOR EVERY FRAME.
 
@@ -108,7 +108,6 @@ IT IS CONTAIN 4 FRAMES: REALES, PESOS AND INVOICE FOR EVERY FRAME.
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/graphyear.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/graphallyear.png)
   
-
 **STOCK:**
   - BROWSE THE STOCK(ALL MERCHANDISE WITH NAME, TOTAL QTY, STOCK, SOLD, PRICE, CATEGORY).
   - OPTION TO SEARCH CERTAIN MERCHANDISE OR FILTER BY QUANTITY OR CATEGORY.
@@ -132,6 +131,21 @@ IT IS CONTAIN 4 FRAMES: REALES, PESOS AND INVOICE FOR EVERY FRAME.
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/stocktoppr.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/todaysell.png)
 
+**EMPLOYEES:**
+  - ADD/EDIT/REMOVE EMPLOYEES WITH HIRING DATE, SALARY AND POSTION.
+  - EDIT FREE WEEK DAYS/ABSCENSE/LICENSE TO EACH ONE, AND PRESENT IT INTO A NICE DIALOG.
+  - AUTO ADD THE SALES FOR EACH ONE AT THE END OF THE DAY.
+  - SHOW THE SALES FOR EACH EMPLOYEE AS TABLE.
+  - SHOW THE SALES FOE ALL EMPLOYEES AND FOR THE MONTH AS GRAPH, WITH THW FREE WEEKLY DAY AS HOLLOW POINT.
+  - SHOW THE DIFFERENCE FOR SALES FOR ALL EMPLOYEES AS DIAGRAM.
+  - SHOW THE SUMMARY FOR EACH EMPLOYEES AS DIALOG, WITH DETAILS.
+
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/emp1.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/emp2.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/emp3.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/emp4.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/emp5.png)
+![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/emp6.png)
 
  - ## EXTRA:
   - ADD FUN FACT TO EXTRA, THAT GIVE YOU FACTS ABOUT TODAY SELLS.
