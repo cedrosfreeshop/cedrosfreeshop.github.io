@@ -42,7 +42,6 @@
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/update1.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/update2.png)
 
-
 **REALES/PESOS FRAME:**
   - IT HAS A FRAME TO CALCULATE SMARTLY WHAT WE SELL EVERYDAY AND WHAT WE HAVE IN THE CASH.
   - CALCULATE APPROXIMITLY THE REST FOR THE NEXT DAY.
@@ -79,9 +78,6 @@
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales7.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales8.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales9.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales10.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales10.png)
-![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales10.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/reales10.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos1.png)
 ![alt text](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/preview/pesos2.png)
