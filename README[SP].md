@@ -5,7 +5,7 @@
 
 [WEBSITE](https://cedrosfreeshop.github.io/)
 
-[FULL SETUP](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/releases/download/v18.9/Cedros.Installer.exe)
+[FULL SETUP](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/releases/download/v23.0/Cedros.Installer.exe)
 
 ### [ENGLISH](https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/README.md)
 
