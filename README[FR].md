@@ -1,4 +1,4 @@
-# App for CEDROS FREE SHOP
+# <p align="center"><img src="https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/icon.png" width="45"> CEDROS FREE SHOP</P>
 
 ### CETTE APPLICATION EST CONÇUE POUR LA BOUTIQUE GRATUITE CEDROS ET NARJES.
 ### IL CONTIENT 4 CADRES : REALES, PESOS ET FACTURE POUR CHAQUE CADRE.
