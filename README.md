@@ -1,4 +1,4 @@
-# <img src="https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/icon.png" width="45"> CEDROS FREE SHOP
+# <p align="center"><img src="https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/icon.png" width="45"> CEDROS FREE SHOP</P>
 
 ### THIS APP IS DESIGNED FOR CEDROS AND NARJES FREE SHOP.
 ### IT IS CONTAIN 4 FRAMES: REALES, PESOS AND INVOICE FOR EVERY FRAME.
