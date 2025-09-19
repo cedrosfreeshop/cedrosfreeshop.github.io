@@ -1,4 +1,4 @@
-# App for CEDROS FREE SHOP
+# <p align="center"><img src="https://github.com/cedrosfreeshop/cedrosfreeshop.github.io/blob/main/icon.png" width="45"> CEDROS FREE SHOP</P>
 
 ### ESTE APLICATIVO FOI PROJETADO PARA A FREE SHOP DE CEDROS E NARJES.
 ### ELE CONTÉM 4 QUADROS: REALES, PESOS E FATURA PARA CADA QUADRO.
